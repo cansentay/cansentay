@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Can Şentay</h1>
-<h3 align="center">A passionate Data Scientist and Analyst from Turkey</h3>
+<h3 align="center">A passionate Data Scientist from Turkey</h3>
 <img align="right" alt="Coding" width="500" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cansentay&label=Profile%20views&color=0e75b6&style=flat" alt="cansentay" /> </p>
